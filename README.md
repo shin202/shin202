@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Hoang (but you can call me Shin 😁) and I'm a student.</h3>
+<h3 align="left">Hi 👋! My name is Hoàng (but you can call me Shin 😁) and I'm a student.</h3>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<h3 align="left">Tech Stacks</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -23,13 +25,18 @@
 
 ###
 
+
+🔭 I’m currently working on something new!
+
+🌱 I’m currently learning everything
+
 <img align="right" height="150" src="https://64.media.tumblr.com/473e088055e8da741cd2df8f82b2a0a5/tumblr_nbhpj8xMGy1qg6rkio1_1280.gifv"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shin202/shin202/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shin202/shin202/output/snake.svg" alt="Snake animation" />
 
 ###
 
